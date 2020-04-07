@@ -24,15 +24,6 @@ import { BLOGS } from '../shared/blogs';
 import { VIDEOLINKS1 } from '../shared/videolinks1';
 
 
-
-
-
-
-
-
-
-
-
 class Main extends Component {
 
   constructor(props) {
