@@ -79,7 +79,7 @@ class Module1 extends Component {
                     <Row>
                       <Col><p><a href="https://www.youtube.com/watch?v=LfdJS_8M8bY">The Importance of Being Focused</a></p></Col>
                       <Col><p><a href="https://www.youtube.com/watch?v=LfdJS_8M8bY">preview</a></p></Col>
-                      <Col><p>6:35</p></Col>
+                      <Col><h4>6:35</h4></Col>
                     </Row>
 
                   </ListGroupItem>
@@ -87,14 +87,14 @@ class Module1 extends Component {
                     <Row>
                       <Col><p><a href="https://www.youtube.com/watch?v=77RubAueWjg">The Benefits of Being Focused</a></p></Col>
                       <Col><p><a href="https://www.youtube.com/watch?v=77RubAueWjg">preview</a></p></Col>
-                      <Col><p>05:54</p></Col>
+                      <Col><h4>05:54</h4></Col>
                     </Row>
                   </ListGroupItem>
                   <ListGroupItem>
                     <Row>
                       <Col><p><a href="https://www.youtube.com/watch?v=AmTbx_8SMMw">How Setting Your Priorities Powers Your Focus</a></p></Col>
                       <Col><p><a href="https://www.youtube.com/watch?v=AmTbx_8SMMw">preview</a></p></Col>
-                      <Col><p>18:55</p></Col>
+                      <Col><h4>18:55</h4></Col>
                     </Row>
                   </ListGroupItem>
                   <ListGroupItem>

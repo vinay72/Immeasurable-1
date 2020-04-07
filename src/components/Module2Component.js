@@ -101,28 +101,28 @@ class Module2 extends Component {
                     <Row>
                       <Col><p>Techniques and Methods for Setting your Goals</p></Col>
                       <Col></Col>
-                      <Col><h4>03:85</h4></Col>
+                      <Col><p>03:85</p></Col>
                     </Row>
                   </ListGroupItem>
                   <ListGroupItem>
                     <Row>
                       <Col><p>Focus in the Middle of the Day</p></Col>
                       <Col></Col>
-                      <Col><h4>03:45</h4></Col>
+                      <Col><p>03:45</p></Col>
                     </Row>
                   </ListGroupItem>
                   <ListGroupItem>
                     <Row>
                       <Col><p>Preparing Yourself for Maximum Focus</p></Col>
                       <Col></Col>
-                      <Col><h4>05:55</h4></Col>
+                      <Col><p>05:55</p></Col>
                     </Row>
                   </ListGroupItem>
                   <ListGroupItem>
                     <Row>
                       <Col><p>Focus Strategies-6 Hacks and Methods that Help you Focus</p></Col>
                       <Col></Col>
-                      <Col><h4>09:34</h4></Col>
+                      <Col><p>09:34</p></Col>
                     </Row>
                   </ListGroupItem>
 
@@ -160,7 +160,8 @@ class Module2 extends Component {
                     <Row>
                       <Col><p>What to Drink</p></Col>
                       <Col></Col>
-                      <Col><p>02:58</p></Col>p        p         </Row>
+                      <Col><p>02:58</p></Col>
+                    </Row>
                   </ListGroupItem>
                   <ListGroupItem>
                     <Row>
