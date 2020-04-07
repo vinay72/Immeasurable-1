@@ -6,13 +6,14 @@ class ReactPlayer1 extends Component {
         super(props);
     }
     render() {
-        return(
-        <ListGroup  key={this.props.select.name}>
-            <ListGroupItem onClick={()=>{ this.props.onSelectedVideo(this.props.select)
+        return (
+            <ListGroup key={this.props.select.name}>
+                <ListGroupItem onClick={() => {
+                    this.props.onSelectedVideo(this.props.select)
                 }}><b className="text-muted">{this.props.select.name}</b>
-            </ListGroupItem>
-        </ListGroup>
-        
+                </ListGroupItem>
+            </ListGroup>
+
         );
     }
 }
